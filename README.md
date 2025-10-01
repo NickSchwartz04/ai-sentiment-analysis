@@ -1,12 +1,7 @@
-Tkinter Notepad Clone
-This is a simple desktop text editor made using Python and the Tkinter GUI library
+AI News Sentiment Analyzer
 
-Includes 
-* Create, Save As, and Open functionaloty
-* Variable text sizes
-* Trash/Restart option
-* Updated display of file name as window title
+Analyzes the sentiment of news/encyclopedia articles using TextBlob for polarity and newspaper3k for article extraction.
+Based on a tutorial: https://www.youtube.com/watch?v=tXuvh5_Xyrw
 
 Credits
-Based on Made With Data's video : https://www.youtube.com/watch?v=xqDonHEYPgA
-with modifications/additions by Nicholas Schwartz
+Modified/extended by Nicholas Schwartz
